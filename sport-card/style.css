@@ -1,0 +1,52 @@
+div{
+    border: 1px solid lightgrey;
+    width: 620px;
+}
+
+img{
+	height: 350px;
+	width: 620px;
+	position: relative;
+	z-index: -1;
+}
+
+p{
+	color: white;
+	background-color: black;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	position: relative;
+	margin-top: -3.8em;
+    opacity: 0.8;
+    font-family: sans-serif;
+}
+
+h1.heading{
+	color: black;
+	padding-left: 16px;
+	padding-right: 20px;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 10px;
+}
+
+h1.some{
+	color: grey;
+	padding-left: 16px;
+	font-size: 26.5px;
+	font-family: sans-serif;
+    display: inline-block;
+    margin-top: 0px; 
+    margin-bottom: 0px;
+}
+
+h1.many{
+	color: grey;
+	padding-left: 16px;
+	font-size: 28px;
+    display: inline-block;
+    margin-top: 2px;
+    font-family: sans-serif; 
+}

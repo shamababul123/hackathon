@@ -1,0 +1,30 @@
+img{
+   margin-left: 400px;
+   position: absolute;
+   z-index: -1;
+}
+
+button{
+	border: 5px solid black;
+	border-radius: 50px;
+	height: 40px;
+	width: 300px;
+	margin-top: 130px;
+	margin-left: 300px;
+	background: linear-gradient(to right, green 25%,yellow 55%,white 55%);
+}
+
+h1{
+	color: black;
+	font-weight: bold;
+	margin: 16px 0px 0px 300px;
+	padding-bottom: 0px;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+h2{
+	color: black;
+    margin: 0px 0px 0px 300px;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 16px;
+}

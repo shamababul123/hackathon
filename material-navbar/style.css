@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+}
+
+.navbar {
+	color: white;
+	background-color: #32887f;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	position: absolute;
+	top: 0px;
+}
+
+.para {
+    color: white;
+	background-color: #32887f;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 4em;
+}
+
+.search {
+	color: white;
+	padding-left: 75em;
+	position: absolute;
+	margin-top: -3.2em;
+}

@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+}
+
+div {
+	display: inline-block;
+    width: 300px;
+    height: 650px;
+    background-color: #FFCDD2;
+    margin: 10px 450px;
+    border: 1px solid white;
+    padding: 2em;
+}
+
+a {
+	text-decoration: none;
+    color: black;
+}
+
+li {
+	margin: 1em;
+    padding: 0.5em;
+}
+
+li:hover {
+    background-color: #ECEFF1;
+    cursor: pointer;
+    
+}
